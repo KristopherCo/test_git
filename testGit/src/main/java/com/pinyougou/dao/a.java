@@ -5,5 +5,6 @@ public class a {
         // 你说的啥呀
         String name = "张无忌";
         // 搞毛呀
+        int b = 11;
     }
 }
